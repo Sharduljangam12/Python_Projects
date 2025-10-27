@@ -1,4 +1,4 @@
-#🎯 Task 1: Build a simple CLI script to convert user input text to speech
+# Task 1: Build a simple CLI script to convert user input text to speech
 import pyttsx3
 
 '''
@@ -22,3 +22,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
